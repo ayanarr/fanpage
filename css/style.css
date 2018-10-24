@@ -2,6 +2,23 @@ html {
     height: 100%;
 }
 
+.gallery{
+    display:flex;
+}
+
+.left-column {
+    display:flex;
+    flex-direction:column;
+}
+
+.rigth-column{
+    display:flex;
+    flex-direction:column;
+}
+
+
+
+
 body {
     height: 100%;
     
